@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocSiganalR", "PocSiganalR\PocSiganalR.csproj", "{DFF6739C-B66F-4A9F-AAAD-1C05A7BFC7F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF6739C-B66F-4A9F-AAAD-1C05A7BFC7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF6739C-B66F-4A9F-AAAD-1C05A7BFC7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF6739C-B66F-4A9F-AAAD-1C05A7BFC7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF6739C-B66F-4A9F-AAAD-1C05A7BFC7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDA0EBE7-0D0F-4301-9957-135BC603A3C8}
+	EndGlobalSection
+EndGlobal
